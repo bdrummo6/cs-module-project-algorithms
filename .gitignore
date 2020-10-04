@@ -1,3 +1,9 @@
 .vscode/
 *.pyc
 __pycache__/
+.idea/.gitignore
+.idea/cs-module-project-algorithms.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
