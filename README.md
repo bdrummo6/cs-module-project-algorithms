@@ -30,11 +30,11 @@ Each directory contains a separate problem that you must solve. Inside each dire
 
 There isn't an official prescribed order for tackling the problems, though a subjective ranking of the given problems from easiest to hardest might go something like this:
 
- 1. `single_number`
- 2. `moving_zeroes`
- 3. `product_of_all_other_numbers`
- 4. `sliding_window_max`
- 5. `eating_cookies`
+ - [X] `single_number`
+ - [X] `moving_zeroes`
+ - [X] `product_of_all_other_numbers`
+ - [X] `sliding_window_max`
+ - [X] `eating_cookies`
 
 For each problem, `cd` into the directory, read the instructions for the challenge, implement your solution in the skeleton file, then test it using the provided test file.
 
@@ -56,9 +56,9 @@ When you confront a problem you haven't encountered before, the general strategy
 
 You will follow the same process as above for each of these **stretch problems**. Make sure you complete the requirements for this module project, before moving on to the stretch problems.
 
-1. `rock_paper_scissors`
-2. `making_change`
-3. `knapsack`
+ - [ ] `rock_paper_scissors`
+ - [ ] `making_change`
+ - [ ] `knapsack`
 
 ## Tests
 
